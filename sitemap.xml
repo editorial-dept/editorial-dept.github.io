@@ -3,54 +3,54 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/post/tbf05/</loc>
+    <loc>https://editorial-dept.github.io/website/post/tbf05/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/404/</loc>
+    <loc>https://editorial-dept.github.io/website/404/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://editorial-dept.github.io/website/about/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://editorial-dept.github.io/website/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/post/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/%E6%8A%80%E8%A1%93%E6%9B%B8%E5%85%B8/</loc>
+    <loc>https://editorial-dept.github.io/website/post/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/categories/%E6%8A%80%E8%A1%93%E6%9B%B8%E5%85%B8/</loc>
+    <loc>https://editorial-dept.github.io/website/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://editorial-dept.github.io/website/tags/%E6%8A%80%E8%A1%93%E6%9B%B8%E5%85%B8/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/%E6%8A%80%E8%A1%93%E6%9B%B8%E5%85%B85/</loc>
+    <loc>https://editorial-dept.github.io/website/categories/%E6%8A%80%E8%A1%93%E6%9B%B8%E5%85%B8/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://editorial-dept.github.io/website/tags/%E6%8A%80%E8%A1%93%E6%9B%B8%E5%85%B85/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://editorial-dept.github.io/website/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
