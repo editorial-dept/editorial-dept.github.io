@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 電子情報編集部公式サイト</title>
-    <link>https://editorial-dept.github.io/website/tags/</link>
+    <link>https://editorial-dept.github.io/tags/</link>
     <description>Recent content in Tags on 電子情報編集部公式サイト</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     
-	<atom:link href="https://editorial-dept.github.io/website/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://editorial-dept.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>技術書典</title>
-      <link>https://editorial-dept.github.io/website/tags/%E6%8A%80%E8%A1%93%E6%9B%B8%E5%85%B8/</link>
+      <link>https://editorial-dept.github.io/tags/%E6%8A%80%E8%A1%93%E6%9B%B8%E5%85%B8/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://editorial-dept.github.io/website/tags/%E6%8A%80%E8%A1%93%E6%9B%B8%E5%85%B8/</guid>
+      <guid>https://editorial-dept.github.io/tags/%E6%8A%80%E8%A1%93%E6%9B%B8%E5%85%B8/</guid>
       <description></description>
     </item>
     
     <item>
       <title>技術書典5</title>
-      <link>https://editorial-dept.github.io/website/tags/%E6%8A%80%E8%A1%93%E6%9B%B8%E5%85%B85/</link>
+      <link>https://editorial-dept.github.io/tags/%E6%8A%80%E8%A1%93%E6%9B%B8%E5%85%B85/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://editorial-dept.github.io/website/tags/%E6%8A%80%E8%A1%93%E6%9B%B8%E5%85%B85/</guid>
+      <guid>https://editorial-dept.github.io/tags/%E6%8A%80%E8%A1%93%E6%9B%B8%E5%85%B85/</guid>
       <description></description>
     </item>
     
