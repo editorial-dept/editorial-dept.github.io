@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>https://editorial-dept.github.io/post/tbf06/</loc>
+    <lastmod>2019-02-12T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://editorial-dept.github.io/404/</loc>
   </url>
   
@@ -46,6 +51,12 @@
   <url>
     <loc>https://editorial-dept.github.io/tags/%E6%8A%80%E8%A1%93%E6%9B%B8%E5%85%B85/</loc>
     <lastmod>2018-10-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://editorial-dept.github.io/tags/%E6%8A%80%E8%A1%93%E6%9B%B8%E5%85%B86/</loc>
+    <lastmod>2019-02-12T00:00:00+09:00</lastmod>
     <priority>0</priority>
   </url>
   
